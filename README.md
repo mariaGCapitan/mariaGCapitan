@@ -41,14 +41,14 @@ Uso este GitHub para **compartir con mi alumnado los apuntes, el código de clas
 
 ## Tecnologías de mis módulos
 
-Estas son las herramientas que aparecen en las asignaturas que imparto:
+Estas son algunas de las herramientas que aparecen en las asignaturas que imparto:
 
 | Ámbito | Tecnologías |
 |:--|:--|
 | **Desarrollo web** | JavaScript · Angular · HTML · CSS · PHP |
 | **Programación** | Java · Python |
-| **Datos y Big Data** | Spark · PySpark · Hadoop · Hive |
-| **Gestión empresarial** | Odoo |
+| **Datos y Big Data** | Spark · PySpark · Hadoop · Hive · Nifi |
+| **Gestión empresarial** | Odoo · Docker|
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -62,6 +62,8 @@ Estas son las herramientas que aparecen en las asignaturas que imparto:
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop">
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Apache Hive">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=flat-square&logo=apachenifi&logoColor=white" alt="Apache NiFi">
 </p>
 
 ---
