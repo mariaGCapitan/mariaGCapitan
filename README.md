@@ -72,9 +72,8 @@ Estas son algunas de las herramientas que aparecen en las asignaturas que impart
 
 | Repositorio | Módulo · Ciclo | Contenido |
 |:--|:--|:--|
-| [nombre-repo](https://github.com/[TU-USUARIO]/nombre-repo) | DWEC · DAW | Apuntes, ejemplos y ejercicios resueltos |
-| [nombre-repo](https://github.com/[TU-USUARIO]/nombre-repo) | SBD · CEIABD | Notebooks, prácticas y datasets de ejemplo |
-| [nombre-repo](https://github.com/[TU-USUARIO]/nombre-repo) | [Módulo] · [Ciclo] | [Descripción] |
+| [dwec-clase](https://github.com/mariaGCapitan/dwec-clase) | DWEC · DAW | Código escrito en clase |
+| [asir_opt-clase](https://github.com/mariaGCapitan/asir_opt-clase) | Python para la Administración de Sistemas · ASIR | Código escrito en clase |
 
 <sub>¿Falta algo o no funciona? Abre un <i>Issue</i> en el repositorio correspondiente.</sub>
 
