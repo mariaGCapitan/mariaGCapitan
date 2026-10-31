@@ -32,9 +32,11 @@ Uso este GitHub para **compartir con mi alumnado el código que escribimos en cl
 
 | Módulo | Ciclo | Contenidos |
 |:--|:--|:--|
-| **DWEC** — Desarrollo Web en Entorno Cliente | DAW | JavaScript, DOM, frameworks, consumo de APIs |
-| **OPT** — Python para la Administración de Sistemas | ASIR | Scripts en Python para automatizar tareas de administración en Linux |
+| **DWEC** — Desarrollo Web en Entorno Cliente | 2.º DAW | JavaScript, DOM, frameworks, consumo de APIs |
+| **OPT** — Python para la Administración de Sistemas | 2.º ASIR | Scripts en Python para automatizar tareas de administración en Linux |
+| **FUHA** — Fundamentos de Hardware | 1.º ASIR | Componentes del ordenador, montaje, diagnóstico y centros de datos |
 | **SBD** — Sistemas de Big Data | CEIABD | Hadoop, Hive, Spark / PySpark, procesamiento distribuido |
+| **DIGI** — Digitalización aplicada a los sectores productivos | 1.º Cocina y Gastronomía | Transformación digital y herramientas digitales en el sector de la cocina |
 
 ---
 
