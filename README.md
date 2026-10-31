@@ -17,7 +17,7 @@
 
 Ingeniera Informática y profesora de FP en la familia de Informática y Comunicaciones. Doy clase en los ciclos de **DAM**, **DAW** y **ASIR**, y en el curso de especialización **CEIABD** (Inteligencia Artificial y Big Data).
 
-Uso este GitHub para **compartir con mi alumnado los apuntes, el código de clase y las prácticas** de mis módulos. Es material vivo: se actualiza a lo largo del curso, así que conviene hacer `git pull` antes de cada clase.
+Uso este GitHub para **compartir con mi alumnado el código que escribimos en clase**. Se actualiza al terminar cada clase. Para descargarlo no hace falta cuenta: botón **Code** → **Download ZIP**.
 
 **Titulaciones**
 
@@ -33,9 +33,8 @@ Uso este GitHub para **compartir con mi alumnado los apuntes, el código de clas
 | Módulo | Ciclo | Contenidos |
 |:--|:--|:--|
 | **DWEC** — Desarrollo Web en Entorno Cliente | DAW | JavaScript, DOM, frameworks, consumo de APIs |
+| **OPT** — Python para la Administración de Sistemas | ASIR | Scripts en Python para automatizar tareas de administración en Linux |
 | **SBD** — Sistemas de Big Data | CEIABD | Hadoop, Hive, Spark / PySpark, procesamiento distribuido |
-
-<sub>📌 Asignación provisional — se confirmará al inicio de curso.</sub>
 
 ---
 
